@@ -20,10 +20,6 @@
 	<ItemGroup>
 		<Using Include="Xunit" />
 	</ItemGroup>
-	
-	<ItemGroup>
-		<Folder Include="Faturamento\Register\" />
-	</ItemGroup>
 
 	<ItemGroup>
 	  <ProjectReference Include="..\..\src\BarberBoss.Application\BarberBoss.Application.csproj" />

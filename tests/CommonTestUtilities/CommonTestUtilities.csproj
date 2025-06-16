@@ -11,10 +11,6 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<Folder Include="Requests\" />
-	</ItemGroup>
-
-	<ItemGroup>
 		<ProjectReference Include="..\..\src\BarberBoss.Communication\BarberBoss.Communication.csproj" />
 	</ItemGroup>
 
